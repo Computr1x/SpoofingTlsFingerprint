@@ -1,3 +1,7 @@
+Fork of <a href='https://github.com/Skyuzii/SpoofingTlsFingerprint'>SpoofingTlsFingerprint</a>  
+Use latest version https://github.com/Danny-Dasilva/CycleTLS/cycletls  
+Compatible with https://github.com/Skyuzii/Haraba.GoProxy
+
 # <a href='https://habr.com/ru/post/596411/'>SpoofingTlsFingerprint</a>
 Прокси сервер для обхода TLS Fingerprint
 
